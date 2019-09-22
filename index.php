@@ -1,12 +1,12 @@
 <html>
 
 <head>
-<title>Hello World 20190915!</title>
+<title>new msg</title>
 </head>
 
 <body>
 
-<?php echo "exam280-20190915"; ?>
+<?php echo "new msg"; ?>
 <?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?><br /><br />
 
 <?php $links = [];
