@@ -6,7 +6,7 @@
 
 <body>
 
-<?php echo "new msg"; ?>
+<?php echo "today is 2019 09 23 20 43"; ?>
 <?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?><br /><br />
 
 <?php $links = [];
